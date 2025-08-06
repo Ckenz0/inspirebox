@@ -2,4 +2,4 @@
 
 Um pequeno aplicativo Ruby on Rails para armazenar frases.
 
-é o ruby
+é o ruby rapa
